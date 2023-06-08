@@ -1,4 +1,4 @@
-; cat flag.txt" //
+; cat flag.txt"; echo
 f
 f
 f
