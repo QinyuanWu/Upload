@@ -1,0 +1,5 @@
+&& cat /flag.txt && echo
+f
+f
+f
+f
