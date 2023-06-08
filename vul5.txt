@@ -1,0 +1,5 @@
+f
+f
+f
+f
+; cat flag.txt ; echo
